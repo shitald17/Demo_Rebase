@@ -1,0 +1,1 @@
+print "todat is very nice day"
